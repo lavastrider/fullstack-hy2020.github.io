@@ -743,7 +743,7 @@ Make a test, which ensures that if the <i>like</i> button is clicked twice, the 
 
 #### 5.16: Blog list tests, step4
 
-Make a test for the new blog form. The test should check, that the form calls the event handler it received as props with the right details when a new blog is created.
+Make a test for the new blog form. The test should check that the form calls the event handler it received as props with the right details when a new blog is created.
 
 </div>
 
